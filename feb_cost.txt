@@ -1,0 +1,17 @@
+month:feb
+Predicted cost:15000
+Total cost:
+1-----1/feb-----home_rent 7000
+2-----8/feb-----accenture_food 780
+3-----8/feb-----other_food 100
+4-----9/feb-----other_food_2 130
+5-----9/feb-----weekend_exp1 139
+6-----9/feb-----weekend_exp_roll 80
+7-----9/feb-----metro 12
+8-----9/feb-----bus 55
+9-----9/feb-----accenture_DD 590
+10-----10/feb-----others 150
+11-----15/FEB-----weekend 550
+12-----17/feb-----weekend 245
+13-----17/feb-----food 220
+14-----18/feb-----accenture_food 80

@@ -1,0 +1,6 @@
+month:feb
+Predicted cost:15000
+Total cost:
+1-----1/feb-----home_rent 7000
+2-----8/feb-----accenture_food 800
+3-----9/feb-----other_foods 100
